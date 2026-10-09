@@ -2,9 +2,7 @@
 
 A digital dice circuit designed using logic gates and digital ICs to generate values from 1 to 6, demonstrating fundamental digital electronics concepts and display interfacing.
 
-📄 Project Report
-
-"View or Download Project Report (PDF)" (AADHARSH%20ADVD%20REPORT%20%281%29.pdf)
+[📄 View Project Report](./AADHARSH%20ADVD%20REPORT%20%281%29.pdf)
 
 🎯 Project Objective
 
