@@ -59,9 +59,9 @@ Dice Number| Binary State
 
 The project report covers the circuit design, block diagram, counter states, logic decoding, truth tables, Boolean expressions, simulation procedure, waveforms, and output verification.
 
-📄 Project Report
+## 📄 Project Report
 
-"📥 View or Download Digital Dice Project Report (PDF)" (./Digital_Dice_Project_Report.pdf)
+[📥 View or Download Digital Dice Project Report (PDF)](./Digital_Dice_Project_Report.pdf)
 
 ✨ Features
 
